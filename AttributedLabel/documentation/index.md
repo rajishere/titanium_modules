@@ -20,9 +20,9 @@ TODO: If your module has an API, you should document
 the reference here.
 
 ### attributedlabel.createLabel
-Creates and returns the label. Initail properties below
-html: advised
-width: required
+Creates and returns the label. Initail properties:
+html: advised, 
+width: required, 
 height: required
 
 ### attributedlabel.html
@@ -30,22 +30,22 @@ Sets the html for the label
 
 ## Usage
 
-// require the well ahead in your project, preferably globally in your controller or alloy
-var module = require('ti.attributedlabel');
+    // require the well ahead in your project, preferably globally in your controller or alloy
+    var module = require('ti.attributedlabel');
 
-// Use it as required
-var foo = module.createLabel({
-    		html:'Here's a styled label, now to next line<br/>Examples include(Note:This list is not exhaustive):<ul><li>Creating many points in a simple label</li><li>Another point</ul><br/><ul><li>Yet another</li></ul>',
-  			width: Ti.UI.FILL,
-  			height: Ti.UI.SIZE,
-            // There is still a issue, where label is not shown when Ti.UI.SIZE is used for width and height, so we set a minimum height til we have a fix
-  			minHeight: 350,
-  			left: 10,
-  			top: 20,
-  			color:'black'
-    });
-    // adding to a sample page
-    $.index.add(foo);
+    // Use it as required
+    var foo = module.createLabel({
+        		html:'Here's a styled label, now to next line<br/>Examples include(Note:This list is not exhaustive):<ul><li>Creating many points in a simple label</li><li>Another point</ul><br/><ul><li>Yet another</li></ul>',
+      			width: Ti.UI.FILL,
+      			height: Ti.UI.SIZE,
+                // There is still a issue, where label is not shown when Ti.UI.SIZE is used for width and height, so we set a minimum height til we have a fix
+      			minHeight: 350,
+      			left: 10,
+      			top: 20,
+      			color:'black'
+        });
+        // adding to a sample page
+        $.index.add(foo);
 
 
 ## Author
