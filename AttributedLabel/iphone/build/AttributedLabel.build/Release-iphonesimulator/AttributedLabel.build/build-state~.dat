@@ -1,0 +1,405 @@
+TAttributedLabel
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a normal i386
+cLibtool /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a normal x86_64
+cCreateUniversalBinary /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/libTiAttributedlabel.a normal i386\ x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000533B9F9C00000000000003B4
+t1396416412
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000533B9FA9000000000000019E
+t1396416425
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533B9FAE000000000088D8C0
+t1396416430
+s8968384
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m
+c0000000053F1E8350000000000000568
+t1408362549
+s1384
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m
+c0000000053F1E5560000000000000882
+t1408361814
+s2178
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m
+c0000000053F1E556000000000000025E
+t1408361814
+s606
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/TiAttributedlabel_Prefix.pch
+c0000000053F1E556000000000000003E
+t1408361814
+s62
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabel.LinkFileList
+c0000000053F1E8C00000000000000263
+t1408362688
+s611
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.o
+t1408362688
+s55780
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.o
+t1408362688
+s16004
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.o
+t1408362688
+s5052
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a
+t1408362688
+s77624
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabel.LinkFileList
+c0000000053F1E8C00000000000000269
+t1408362688
+s617
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.o
+t1408362688
+s57428
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.o
+t1408362688
+s17644
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.o
+t1408362688
+s5840
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a
+t1408362688
+s81696
+
+N/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/libTiAttributedlabel.a
+t2
+s0
+
+N/var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.pch
+t1408362688
+s3232880
+
+N/var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.pch
+t1408362688
+s3236676
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese3c40b4020a2b941^92cb174020a2b941^---0#1#1#--18"Check dependencies36"0618244A-1D4D-42B7-BE70-04AC20EED44F-
+
+CCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.219863
+e430055488.329216
+r1
+xCompileC
+xbuild/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.o
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiUIView.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiProxy.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/defines.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiThreading.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiPublicAPI.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiEvaluator.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollContext.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiCore.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/Ti.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollCallback.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollObject.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBindingRunLoop.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiAnimation.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiPoint.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiDimension.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiColor.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/ListenerEntry.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiModule.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiUtils.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/WebFont.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiFile.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBuffer.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBlob.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/LayoutConstraint.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiGradient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m228"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.o Classes/TiAttributedlabelLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc85d384020a2b941^c347544020a2b941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m0000000000000000^4537"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.o Classes/TiAttributedlabelLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch -MMD -MT dependencies -MF /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.d --serialize-diagnostics /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.dia -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelLabel.o36"40B5ECE7-24E5-4B20-917A-CE71E27CC429-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.220054
+e430055488.325553
+r1
+xCompileC
+xbuild/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.o
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiModule.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiProxy.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/defines.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiThreading.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiPublicAPI.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiEvaluator.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollContext.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiCore.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/Ti.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollCallback.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollObject.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBindingRunLoop.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiUtils.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiDimension.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiColor.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/WebFont.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiFile.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBuffer.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBlob.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiHost.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/Bridge.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m230"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.o Classes/TiAttributedlabelModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc66d384020a2b941^c158534020a2b941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m0000000000000000^4543"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.o Classes/TiAttributedlabelModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch -MMD -MT dependencies -MF /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.d --serialize-diagnostics /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.dia -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModule.o36"6E91FB00-B58E-40CA-94A5-1E343DBE64CE-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.220248
+e430055488.242851
+r1
+xCompileC
+xbuild/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.o
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m242"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.o Classes/TiAttributedlabelModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1686384020a2b941^4e2a3e4020a2b941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m0000000000000000^4579"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.o Classes/TiAttributedlabelModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch -MMD -MT dependencies -MF /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.d --serialize-diagnostics /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.dia -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabelModuleAssets.o36"0F974FC5-6E44-4A6C-AD12-EA0EE5F23D36-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.220663
+e430055488.329274
+r1
+xCompileC
+xbuild/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.o
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiUIView.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiProxy.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/defines.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiThreading.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiPublicAPI.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiEvaluator.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollContext.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiCore.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/Ti.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollCallback.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollObject.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBindingRunLoop.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiAnimation.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiPoint.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiDimension.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiColor.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/ListenerEntry.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiModule.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiUtils.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/WebFont.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiFile.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBuffer.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBlob.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/LayoutConstraint.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiGradient.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m232"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.o Classes/TiAttributedlabelLabel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilere0a1384020a2b941^a452544020a2b941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m0000000000000000^4548"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.o Classes/TiAttributedlabelLabel.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/x86_64 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch -MMD -MT dependencies -MF /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.d --serialize-diagnostics /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.dia -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelLabel.m -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelLabel.o36"10F5AF50-6C98-4730-82A9-1C13AB8C59F2-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.220931
+e430055488.322532
+r1
+xCompileC
+xbuild/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.o
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiModule.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiProxy.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/defines.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiThreading.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiPublicAPI.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiEvaluator.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollContext.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiCore.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/Ti.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiBase.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiObjectRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiValueRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/WebKitAvailability.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRef.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiStringRefCF.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollCallback.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/KrollObject.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBindingRunLoop.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiUtils.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiDimension.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiColor.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/WebFont.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiFile.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBuffer.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiBlob.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiHost.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/Bridge.h
+d/Users/ctsmobility/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m234"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.o Classes/TiAttributedlabelModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerb6ba384020a2b941^e696524020a2b941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m0000000000000000^4554"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.o Classes/TiAttributedlabelModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/x86_64 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch -MMD -MT dependencies -MF /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.d --serialize-diagnostics /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.dia -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModule.m -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModule.o36"9941399F-42AF-41B3-94FC-30D5192963AD-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CCompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.221341
+e430055488.244528
+r1
+xCompileC
+xbuild/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.o
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m246"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.o Classes/TiAttributedlabelModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler47c8384020a2b941^bb9c3e4020a2b941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m0000000000000000^4590"CompileC build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.o Classes/TiAttributedlabelModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/x86_64 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch -MMD -MT dependencies -MF /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.d --serialize-diagnostics /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.dia -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/Classes/TiAttributedlabelModuleAssets.m -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabelModuleAssets.o36"1E62FA0D-5590-45DC-B6F4-66064221D0F1-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CCreateUniversalBinary /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/libTiAttributedlabel.a normal i386\ x86_64
+s430055488.335977
+e430055488.342992
+r1
+xCreateUniversalBinary
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/libTiAttributedlabel.a
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Create universal binary /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/libTiAttributedlabel.a94"CreateUniversalBinary build/Release-iphonesimulator/libTiAttributedlabel.a normal i386\ x86_64bf10564020a2b941^5fcf574020a2b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/libTiAttributedlabel.a00346cbfdeffdf42^1203"CreateUniversalBinary build/Release-iphonesimulator/libTiAttributedlabel.a normal i386\ x86_64    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/libTiAttributedlabel.a36"9943E8AA-ACA6-4469-BECB-82166F35AA22-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CLibtool /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a normal i386
+s430055488.329834
+e430055488.335473
+r1
+xLibtool
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Libtool build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a normal i386136"Libtool build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a normal i3864982544020a2b941^36ea554020a2b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1454"Libtool build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a normal i386    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -filelist /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/TiAttributedlabel.LinkFileList -ObjC -framework Foundation -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/i386/libTiAttributedlabel.a36"B5C1A7C0-277D-4CC7-815C-D5E1CA534942-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CLibtool /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a normal x86_64
+s430055488.330036
+e430055488.335634
+r1
+xLibtool
+x/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Libtool build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a normal x86_64140"Libtool build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a normal x86_64df8a544020a2b941^b6f3554020a2b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1464"Libtool build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a normal x86_64    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -filelist /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/TiAttributedlabel.LinkFileList -ObjC -framework Foundation -o /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/Objects-normal/x86_64/libTiAttributedlabel.a36"4AE73891-859A-49D3-BA2A-0BCE901A8C33-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.094992
+e430055488.215386
+r1
+xProcessPCH
+x/var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.pch
+xTiAttributedlabel_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/TiAttributedlabel_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TiAttributedlabel_Prefix.pch312"ProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2e75184020a2b941^ee23374020a2b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/TiAttributedlabel_Prefix.pch0000000000000000^4422"ProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/i386 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.d -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/TiAttributedlabel_Prefix.pch -o /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-bredifoxsmfgijfsbsfkrthliyiy/TiAttributedlabel_Prefix.pch.pch36"C8AD18E0-97A9-4D62-BB2E-6EF60A65170A-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+
+CProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s430055488.095257
+e430055488.219306
+r1
+xProcessPCH
+x/var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.pch
+xTiAttributedlabel_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/TiAttributedlabel_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TiAttributedlabel_Prefix.pch314"ProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc076184020a2b941^8d25384020a2b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/TiAttributedlabel_Prefix.pch0000000000000000^4425"ProcessPCH /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.pch TiAttributedlabel_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/ctsmobility/Documents/Android/platform-tools:/Users/ctsmobility/Documents/Android/tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-generated-files.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-own-target-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-all-target-headers.hmap -iquote /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/TiAttributedlabel-project-headers.hmap -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include -I/Users/ctsmobility/Library/Application\ Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone/include/TiCore -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources/x86_64 -I/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/AttributedLabel.build/Release-iphonesimulator/AttributedLabel.build/DerivedSources -F/Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.d -c /Users/ctsmobility/Documents/Appcelerator_Studio_Workspace/AttributedLabel/iphone/TiAttributedlabel_Prefix.pch -o /var/folders/6_/zm8x90z50qxb0ftx23mm44dm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/TiAttributedlabel_Prefix-cfrvyrflhtqepeggnszifreuvyxh/TiAttributedlabel_Prefix.pch.pch36"9DA63926-25A2-4842-B4FB-691436F8E3AC-
+bB29A0799-2173-4DAF-9F27-AA8422E5BE17
+

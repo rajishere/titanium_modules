@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: AttributedLabel
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+# these should not be edited
+name: AttributedLabel
+moduleid: ti.attributedlabel
+guid: dad59345-7edc-4ef4-8b0d-7ceb57854a2f
+platform: iphone
+minsdk: 3.3.0.GA
