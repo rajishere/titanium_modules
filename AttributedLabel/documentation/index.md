@@ -1,8 +1,10 @@
-# AttributedLabel Module
+# Ti.AttributedLabel Module
 
 ## Description
 
-TODO: Enter your module description here
+Gives you the power of 'basic' HTML and CSS without the weight of a WebView.
+
+Using the attribuited property of UILabel from iOS 6 & up to render basic HTML content in a label
 
 ## Accessing the AttributedLabel Module
 
@@ -31,9 +33,9 @@ TODO: Enter your usage example here
 
 ## Author
 
-TODO: Enter your author name, email and other contact
-details you want to share here.
+Raja Sekhar Chiderae,
+rajatwork@ymail.com.
 
 ## License
 
-TODO: Enter your license/legal information here.
+General Public License 3.0 - http://www.gnu.org/licenses/gpl-3.0.txt
