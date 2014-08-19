@@ -19,17 +19,34 @@ The attributedlabel variable is a reference to the Module object.
 TODO: If your module has an API, you should document
 the reference here.
 
-### attributedlabel.function
+### attributedlabel.createLabel
+Creates and returns the label. Initail properties below
+html: advised
+width: required
+height: required
 
-TODO: This is an example of a module function.
-
-### attributedlabel.property
-
-TODO: This is an example of a module property.
+### attributedlabel.html
+Sets the html for the label
 
 ## Usage
 
-TODO: Enter your usage example here
+// require the well ahead in your project, preferably globally in your controller or alloy
+var module = require('ti.attributedlabel');
+
+// Use it as required
+var foo = module.createLabel({
+    		html:'Here's a styled label, now to next line<br/>Examples include(Note:This list is not exhaustive):<ul><li>Creating many points in a simple label</li><li>Another point</ul><br/><ul><li>Yet another</li></ul>',
+  			width: Ti.UI.FILL,
+  			height: Ti.UI.SIZE,
+            // There is still a issue, where label is not shown when Ti.UI.SIZE is used for width and height, so we set a minimum height til we have a fix
+  			minHeight: 350,
+  			left: 10,
+  			top: 20,
+  			color:'black'
+    });
+    // adding to a sample page
+    $.index.add(foo);
+
 
 ## Author
 
